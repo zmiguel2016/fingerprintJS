@@ -1,0 +1,81 @@
+.credit-card {
+    width: 720px;
+    height: 230px;
+    margin: 60px auto ;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fff;
+   
+}
+
+.form-header {
+    height: 37px;
+    padding: 0px 0px 0;
+    border-bottom: 1px solid #e1e8ee; 
+}
+ 
+.form-body {
+    height: 230px;
+    padding: 30px 40px 20px 20px;
+    background-color: #F2F2F2;
+}
+
+.title {
+    float: left;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #5e6977;
+}
+.cardImg{
+    float: right;
+    margin: 0;
+}
+
+.card-number,
+.cvv-input input,
+.date-field{
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 45px;
+    color: #54585c;
+}
+ 
+.card-number {
+    width: 98%;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border: 2px solid #e1e8ee;
+    border-radius: 6px;
+}
+
+.date-field {
+    float: left;
+    width: 225px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border: 2px solid #e1e8ee;
+    border-radius: 6px;
+}
+
+.cvv-input input {
+    float: right;
+    width: 225px;
+    padding-left: 20px;
+    border: 2px solid #e1e8ee;
+    border-radius: 6px;
+    background: #fff;
+}
+
+.btn{
+    border-radius: .5rem;
+    margin-top: 10px;
+    padding: .5rem 1rem;
+    font-size: 1.2rem;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background-color: black;
+    
+}
+ 
